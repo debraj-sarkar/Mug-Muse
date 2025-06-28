@@ -3,7 +3,7 @@ import FoodItemsCard from './FoodItemsCard'
 import Bread from '../src/assets/foodItems/Bread.svg'
 import Cake from '../src/assets/foodItems/Cake.svg'
 import Coffee from '../src/assets/foodItems/Coffee.svg'
-import CupCake from '../src/assets/foodItems/Cupcake.svg'
+import CupCake from '../src/assets/foodItems/CupCake.svg'
 import MilkShake from '../src/assets/foodItems/Milkshake.svg'
 export default function FoodItem() {
     const FoodItemImages = [Bread, Cake, Coffee, CupCake, MilkShake]
