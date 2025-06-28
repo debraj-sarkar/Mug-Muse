@@ -1,4 +1,4 @@
-import star from '../src/assets/star.svg'
+import star from '../src/assets/Star.svg'
 import latteMug from '../src/assets/LatteMug.svg'
 import favorite from '../src/assets/favorite.svg'
 import add from '../src/assets/add.svg'
